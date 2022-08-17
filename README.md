@@ -7,7 +7,7 @@ Prerequisites before running any of the below projects
 * JDK 1.8 or later
 * Gradle 4+ or Maven 3.2+ ( I used Maven)
 
-**Demo App**<br />
+**demo app**<br />
 This a basic website from [baeldung](https://www.baeldung.com/spring-boot-start).<br />
 The app manages a simple Book management system which allows you to execute different CRUB Operaions.<br />
 The app can be tested by either use of Postman or by use of testing code under the test directory.<br />
