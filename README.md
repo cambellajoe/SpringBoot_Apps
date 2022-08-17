@@ -2,6 +2,11 @@
 
 This repo contains a series of Apps from different learning materials
 
+Prerequisite before running any of the below projects
+* A favorite text editor or IDE (I used VS Code)
+* JDK 1.8 or later
+* Gradle 4+ or Maven 3.2+ ( I used Maven)
+
 **Demo App**<br />
 This a basic website from https://www.baeldung.com/spring-boot-start.<br />
 The app manages a simple Book management system which allows you to execute different CRUB Operaions.<br />
