@@ -15,7 +15,7 @@ The app can be tested by either use of Postman or by use of testing code under t
 **crud_rest_api**<br />
 This project demonstrates creation of rest APIs and their corresponding CRUD operations.<br />
 The information and code is sourced from  https://www.javaguides.net/2021/10/spring-boot-crud-rest-api-project-using-IntelliJ-IDEA.html<br />
-The apps exposes APIs and persists data in a MySQL database.<br />
-You need to install and create a mysql database, update the application.properties file your connection details.<br />
+The app exposes APIs and persists data in a MySQL database.<br />
+You need to install and create a mysql database, update the application.properties file with your connection details.<br />
 You can find postman test examples under the test directory / postman_test.<br />
 
